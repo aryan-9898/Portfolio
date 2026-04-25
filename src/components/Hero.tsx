@@ -109,7 +109,7 @@ export default function Hero() {
           >
              <div className="flex items-center gap-3">
                 <div className="w-1.5 h-1.5 bg-brand-primary rounded-full" />
-                <span className="text-[10px] font-bold uppercase tracking-widest text-slate-300 whitespace-nowrap">B.Tech Engineering '25</span>
+                <span className="text-[10px] font-bold uppercase tracking-widest text-slate-300 whitespace-nowrap">Software Developer</span>
              </div>
           </motion.div>
         </motion.div>
