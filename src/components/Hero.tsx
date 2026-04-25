@@ -31,7 +31,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-lg text-slate-400 max-w-lg leading-relaxed font-light mb-10">
-            I'm <span className="text-white font-medium">Aryan Choudhary</span>, a student engineer specializing in <span className="text-brand-primary font-medium">Agentic AI</span>, high-performance cloud applications, and digital systems.
+            I'm <span className="text-white font-medium">Aryan Choudhary</span>, a software developer specializing in <span className="text-brand-primary font-medium">Agentic AI</span>, high-performance cloud applications, and digital systems.
           </p>
 
           <div className="flex flex-wrap gap-4">
